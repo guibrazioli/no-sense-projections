@@ -1,2 +1,2 @@
 # no-sense-projections
-This is almost no sense, but getting fun would be the best sense.
+Hey ma friends, here you will find some forecasting results using Deep Learning algorithms in different ways.
